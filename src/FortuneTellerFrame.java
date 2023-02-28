@@ -53,8 +53,11 @@ public class FortuneTellerFrame extends JFrame {
         fortunes.add("The future is looking dim...");
         fortunes.add("You're gonna find twelve cents on the ground.");
         fortunes.add("You're gonna win a Lamborghini, but then crash it");
-        fortunes.add("You're gonna win a Lamborghini, but then crash it");
-
+        fortunes.add("You will learn to fly, as soon as you grow wings.");
+        fortunes.add("You will step in gum.");
+        fortunes.add("You're gonna run out of toilet paper.");
+        fortunes.add("You will find a broken TV");
+        fortunes.add("JACKPOT! You win $1!");
 
 
         Toolkit toolkit = Toolkit.getDefaultToolkit();
